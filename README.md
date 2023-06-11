@@ -4,7 +4,7 @@
 <!-- Second Row -->
 
 <!-- Github Metrics -->
-<!-- <p align="center"><img width="400" src="https://github.com/citraFebriawirti/citraFebriawirti/blob/main/github-metrics.svg"><img width="900" height="1" alt=""></p> -->
+<!-- <p align="center"><img width="400" src="https://github.com/citraFebriawirti/Muhamad Farhan/blob/main/github-metrics.svg"><img width="900" height="1" alt=""></p> -->
 
 <!-- Techonology and Tools -->
 
@@ -31,4 +31,4 @@
 
 <!-- Github Status -->
 <h1 align="center">Github Status</h1>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=citraFebriawirti&theme=prussian&column=7&no-frame=true&show_icons=true"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MuhamadFarhan&theme=prussian&column=7&no-frame=true&show_icons=true"/></p>
